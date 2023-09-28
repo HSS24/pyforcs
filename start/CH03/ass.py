@@ -6,6 +6,4 @@ answer = input()
 
 if answer == "y":
     print ("Yes, it is.")
-
-
-
+    
